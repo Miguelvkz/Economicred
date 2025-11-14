@@ -19,7 +19,7 @@ body {
 /* Configuração de tamanhos das divs principais e seus layout */
 
 .header {
-    background-color: aliceblue;
+    background-color: rgb(126, 141, 153);
     width: 100%;
     height: 14dvh;
     display: flex;
