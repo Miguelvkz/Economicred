@@ -22,9 +22,12 @@ Sistema de cartão de crédito
 
 Sons, animações e interface parecida com um caixa eletrônico real
 
-Página de confirmação de operação usando uma única senha para todas as ações
+Página de confirmação de operação usando uma única senha para todas as ações]
+```
 <details>
 <summary>📁 Estrutura do Projeto</summary>
+  ```
+```
 - Imagens
   - Banco24h.png
   - bg-menu-teste4.jpg
@@ -72,7 +75,7 @@ Página de confirmação de operação usando uma única senha para todas as aç
 - style.css
 - usuarios.json
 </details>
-
+```
 ▶️ Como Rodar o Projeto
 
 Instale o XAMPP ou outro servidor PHP.
