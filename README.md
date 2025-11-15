@@ -22,15 +22,62 @@ O projeto inclui:
 * Página de confirmação de operação usando uma única senha para todas as ações
 
 ---
-
+```
 <details>
 <summary>📁 Estrutura do Projeto (Clique para expandir)</summary>
+   
+    ```
+- Imagens
+  - Banco24h.png
+  - bg-menu-teste4.jpg
+  - Foto-ultimo-teste.jpg
+  - iconmaior.ico
+  - Logocomnome.png
+  - mulher.png
+- index.html
+- menu
+  - confirmar_operacao.php
+  - login.php
+  - menu.css
+  - menu.php
+  - operacao_concluida.html
+  - senha.php
+- Operações
+  - Credito
+    - cartao_credito.php
+    - credito.html
+    - dívidas
+      - dividas.html
+      - d_cartao.php
+  - Deposito
+    - deposito.html
+    - d_conta_corrente.php
+    - d_conta_poupanca.php
+  - Saldo
+    - saldo.html
+    - sa_conta_corrente.php
+    - sa_conta_poupanca.php
+  - Saque
+    - saque.html
+    - s_conta_corrente.php
+    - s_conta_poupanca.php
+  - Transferências
+    - transferencias.html
+    - t_conta_corrente.php
+    - t_conta_poupanca.php
+    - t_valor_corrente.php
+    - t_valor_poupanca.php
+- README.md
+- Sons
+  - beep.mp3
+  - saque_deposito.mp3
+- style.css
+- usuarios.json
 
-. ├── Imagens/ │ ├── Banco24h.png │ ├── bg-menu-teste4.jpg │ ├── Foto-ultimo-teste.jpg │ ├── iconmaior.ico │ ├── Logocomnome.png │ └── mulher.png ├── menu/ │ ├── confirmar_operacao.php │ ├── login.php │ ├── menu.css │ ├── menu.php │ ├── operacao_concluida.html │ └── senha.php ├── Operações/ │ ├── Credito/ │ │ ├── cartao_credito.php │ │ ├── credito.html │ │ └── dívidas/ │ │ ├── dividas.html │ │ └── d_cartao.php │ ├── Deposito/ │ │ ├── deposito.html │ │ ├── d_conta_corrente.php │ │ └── d_conta_poupanca.php │ ├── Saldo/ │ │ ├── saldo.html │ │ ├── sa_conta_corrente.php │ │ └── sa_conta_poupanca.php │ ├── Saque/ │ │ ├── saque.html │ │ ├── s_conta_corrente.php │ │ └── s_conta_poupanca.php │ └── Transferências/ │ ├── transferencias.html │ ├── t_conta_corrente.php │ ├── t_conta_poupanca.php │ ├── t_valor_corrente.php │ └── t_valor_poupanca.php ├── Sons/ │ ├── beep.mp3 │ └── saque_deposito.mp3 ├── index.html ├── README.md ├── style.css └── usuarios.json
 
 
 </details>
-
+```
 ---
 
 ### ▶️ Como Rodar o Projeto
