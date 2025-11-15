@@ -25,63 +25,101 @@ Sons, animações e interface parecida com um caixa eletrônico real
 Página de confirmação de operação usando uma única senha para todas as ações
 
 📁 Estrutura do Projeto
-- Imagens
-  - Banco24h.png
-  - bg-menu-teste4.jpg
-  - Foto-ultimo-teste.jpg
-  - iconmaior.ico
-  - Logocomnome.png
-  - mulher.png
+<details>
+  <summary>📁 Imagens</summary>
 
-- index.html
+  Banco24h.png  
+  bg-menu-teste4.jpg  
+  Foto-ultimo-teste.jpg  
+  iconmaior.ico  
+  Logocomnome.png  
+  mulher.png  
+  index.html  
 
-- menu
-  - confirmar_operacao.php
-  - login.php
-  - menu.css
-  - menu.php
-  - operacao_concluida.html
-  - senha.php
+</details>
 
-- Operações
-  - Credito
-    - cartao_credito.php
-    - credito.html
-    - dívidas
-      - dividas.html
-      - d_cartao.php
+<details>
+  <summary>📁 menu</summary>
 
-  - Deposito
-    - deposito.html
-    - d_conta_corrente.php
-    - d_conta_poupanca.php
+  confirmar_operacao.php  
+  login.php  
+  menu.css  
+  menu.php  
+  operacao_concluida.html  
+  senha.php  
 
-  - Saldo
-    - saldo.html
-    - sa_conta_corrente.php
-    - sa_conta_poupanca.php
+</details>
 
-  - Saque
-    - saque.html
-    - s_conta_corrente.php
-    - s_conta_poupanca.php
+<details>
+  <summary>📁 Operações</summary>
 
-  - Transferências
-    - transferencias.html
-    - t_conta_corrente.php
-    - t_conta_poupanca.php
-    - t_valor_corrente.php
-    - t_valor_poupanca.php
+  <details>
+    <summary>📁 Credito</summary>
 
-- README.md
+    cartao_credito.php  
+    credito.html  
 
-- Sons
-  - beep.mp3
-  - saque_deposito.mp3
+    <details>
+      <summary>📁 dívidas</summary>
 
-- style.css
+      dividas.html  
+      d_cartao.php  
 
-- usuarios.json
+    </details>
+
+  </details>
+
+  <details>
+    <summary>📁 Deposito</summary>
+
+    deposito.html  
+    d_conta_corrente.php  
+    d_conta_poupanca.php  
+
+  </details>
+
+  <details>
+    <summary>📁 Saldo</summary>
+
+    saldo.html  
+    sa_conta_corrente.php  
+    sa_conta_poupanca.php  
+
+  </details>
+
+  <details>
+    <summary>📁 Saque</summary>
+
+    saque.html  
+    s_conta_corrente.php  
+    s_conta_poupanca.php  
+
+  </details>
+
+  <details>
+    <summary>📁 Transferências</summary>
+
+    transferencias.html  
+    t_conta_corrente.php  
+    t_conta_poupanca.php  
+    t_valor_corrente.php  
+    t_valor_poupanca.php  
+
+  </details>
+
+</details>
+
+<details>
+  <summary>📁 Sons</summary>
+
+  beep.mp3  
+  saque_deposito.mp3  
+  style.css  
+
+</details>
+
+usuarios.json  
+README.md
 
 ▶️ Como Rodar o Projeto
 
